@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tahiee
+- 👋 Hi, I’m Tahir Khan Niazi
 - 👀 I’m interested in to Growing my self.
-- 🌱 I’m currently learning (HTML-CSS-JS)
+- 🌱 I’m currently learning (Advance-JS)
 - 💞️ I’m looking to collaborate in to Multi Projects.
 - 📫 How to reach me? You can reach me on Whatsapp : +923052095951
 
