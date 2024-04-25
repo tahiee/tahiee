@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahiee&label=Profile%20views&color=0e75b6&style=flat" alt="tahiee" /> </p>
 
 
-- 🔭 I’m currently working on **React-TODOAPP**
+- 🔭 I’m currently working on **Nest Mart & Grocery Ecomerce**
 
-- 🌱 I’m currently learning **Advance-JavaScript**
+- 🌱 I’m currently learning **REACT.JS**
 
 - 📫 How to reach me **tahirkhanji007@gmail.com**
 
