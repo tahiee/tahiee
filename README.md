@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tahir Khan Niazi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
-[
-<img align='right' alt='coding' width='450px' src='https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif'>](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+
+<img align='right' alt='coding' width='450px' src='https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif'>(https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahiee&label=Profile%20views&color=0e75b6&style=flat" alt="tahiee" /> </p>
 
