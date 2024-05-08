@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Nest Mart & Grocery Ecomerce**
 
-- 🌱 I’m currently learning **REACT.JS**
+- 🌱 I’m currently learning **Next.JS**
 
 - 📫 How to reach me **tahirkhanji007@gmail.com**
 
