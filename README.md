@@ -8,13 +8,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahiee&label=Profile%20views&color=0e75b6&style=flat" alt="tahiee" /> </p>
 
 
-- 🔭 I’m currently working on **Nest Mart & Grocery Ecomerce**
+- 🔭 I’m currently working on **EventME Event Management App**
 
 - 🌱 I’m currently learning **Next.JS**
 
 - 📫 How to reach me **tahirkhanji007@gmail.com**
 
-- ⚡ Fun fact **I think I'm Funny :P**
+- ⚡ Fun fact **I think I'm Very Focus :P**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
