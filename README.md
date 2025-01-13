@@ -1,31 +1,112 @@
-<h1 align="center">Hi 👋, I'm Tahir Khan Niazi</h1>
-<h3 align="center"> A passionate frontend developer and a freelance from Pakistan my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</h3>
-  
-<h4 align='center'>i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h4>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> , I'm Tahir Khan Niazi! ٱلسَّلَامُ عَلَيْكُمْ<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Mern Developer at <a href="https:///">Dotclick
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+[![Linkedin: anmol](https://img.shields.io/badge/-tahir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-tahir-khan-10730a1b4/)](https://www.linkedin.com/in/m-tahir-khan-10730a1b4/)
+![GitHub followers](https://img.shields.io/github/followers/tahiee?label=Follow&style=social)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahiee&label=Profile%20views&color=0e75b6&style=flat" alt="tahiee" /> </p>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const tahie = {
+    pronouns: "He" | "Him",
+    code: ["TypeScript", "Javascript"],
+    askMeAbout: ["web dev", "UI/UX"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Sass", "Tailwind", "Bootstrap"],
+            uiLibraries: ["Material UI", "Ant Design", "Chakra UI", "ShadCn"],
+        },
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+        },
+        mobileApp: {
+            crossPlatform: ["Flutter"],
+        },
+        devOps: ["GitHub Actions"],
+        databases: ["PostgreSQL", "MongoDB", "Firebase Realtime DB"],
+        misc: ["REST APIs"],
+        generativeAI: ["GPT"],
+    },
+    currentFocus: "Leading a way in Next.js",
+    funFact: "I can debug faster with a coffee in hand!"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C554%20hrs%2040%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-838-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 256.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 12 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 30 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                767 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+🌆 Daytime                1862 commits        ██████████░░░░░░░░░░░░░░░   40.30 % 
+🌃 Evening                1363 commits        ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+🌙 Night                  628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Tuesday                  642 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Wednesday                737 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Thursday                 616 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Friday                   487 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Saturday                 598 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Sunday                   955 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+```
 
 
-- 🔭 I’m currently working on **AI SEO LANDING PAGE**
+📊 **This Week I Spent My Time On** 
 
-- 🌱 I’m currently learning **Next.JS**
+```text
+🕑︎ Time Zone: Karachi/Pakistan
 
-- 📫 How to reach me **tahirkhanji007@gmail.com**
+💬 Programming Languages: 
+TypeScript               29 hrs 35 mins      ████████████████████░░░░░   78.24 % 
+JavaScript               5 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
 
-- ⚡ Fun fact **I think I'm Very Focus :P**
+💻 Operating System: 
+Hp                      37 hrs 48 mins      █████████████████████████   100.00 % 
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/m-tahir-khan-niazi-10730a1b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-tahir-khan-10730a1b4/" height="30" width="40" /></a>
-</p>
+**I Mostly Code in JavaScript** 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+```text
+JavaScript               33 repos            ███████████░░░░░░░░░░░░░░   42.31 % 
+TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahiee&show_icons=true&locale=en&layout=compact" alt="tahiee" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahiee&show_icons=true&locale=en" alt="tahiee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahiee&" alt="tahiee" /></p>
+
+ Last Updated on 13/01/2025 00:33:08 UTC
+<!--END_SECTION:waka-->
+
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
