@@ -48,11 +48,11 @@ const tahir = {
 
 > 📦 256.6 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2025
+> 🏆 12 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
+> ✔ Opted to Hire
  > 
-> 📜 25 or 28 Public Repositories 
+> 📜 29 or 30 Public Repositories 
  > 
 > 🔑 30 Private Repositories 
 
